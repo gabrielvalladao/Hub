@@ -116,7 +116,7 @@ export const MicroStore = () => {
     if (!wnapp.hide && fetchState == 0) {
       var url = queryParams.get("customstore");
       if (!url)
-        url = "https://gabrielvalladao-hub.netlify.app/store/index.json";
+        url = "https://store.win11react.com/store/index.json";
 
       axios
         .get(url)
