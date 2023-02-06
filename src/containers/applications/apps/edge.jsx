@@ -239,9 +239,10 @@ export const EdgeMenu = () => {
                 x
               </div>
               <div className="text-gray-800 text-xs font-medium">
-              Se mostrar <b>"Recusou-se a conectar"</b>, então{" "}
+                Se mostrar <b>"Recusou-se a conectar"</b>, então{" "}
                 <b>esse site não permite </b>
-                outros sites para mostrar seu conteúdo via iframe. <b>Eu não posso consertá-lo</b>.
+                outros sites para mostrar seu conteúdo via iframe.{" "}
+                <b>Eu não posso consertá-lo</b>.
               </div>
             </div>
           </div>
