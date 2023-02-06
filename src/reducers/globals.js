@@ -191,6 +191,7 @@ const defState = {
     "call of duty",
     "cyberpunk 2077",
     "minecraft",
+    "one note",
     "battle field v",
     "far cry 5",
     "hitman 3",
