@@ -115,7 +115,8 @@ export const MicroStore = () => {
   useEffect(() => {
     if (!wnapp.hide && fetchState == 0) {
       var url = queryParams.get("customstore");
-      if (!url) url = "https://gabrielvalladao-hub.netlify.app/store/index.json";
+      if (!url)
+        url = "https://gabrielvalladao-hub.netlify.app/store/index.json";
 
       axios
         .get(url)
