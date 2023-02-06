@@ -116,7 +116,7 @@ export const MicroStore = () => {
     if (!wnapp.hide && fetchState == 0) {
       var url = queryParams.get("customstore");
       if (!url)
-        url = "https://store.win11react.com/store/index.json";
+        url = "https://gabrielvalladao-hub.netlify.app/store/index.json";
 
       axios
         .get(url)
@@ -234,7 +234,7 @@ const DownPage = ({ action, apps }) => {
         </div>
         <div className="absolute right-0 mr-4 text-sm">
           <a
-            href="https://github.com/win11react/store"
+            href="https://github.com/gabrielvalladao/hub-store"
             className="catbtn"
             target="_blank"
             rel="noreferrer"
