@@ -17,7 +17,7 @@ const defState = {
     },
   },
   person: {
-    name: "Blue Edge",
+    name: "Gabriel Valladão",
     theme: "light",
     color: "blue",
   },

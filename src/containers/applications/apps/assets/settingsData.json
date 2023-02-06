@@ -314,7 +314,7 @@
     {
       "type": "tile",
       "name": "Startup",
-      "desc": "Apps that start automatically when you sign in",
+      "desc": "Aplicativos que iniciam automaticamente quando você faz login",
       "icon": ""
     }
   ],
