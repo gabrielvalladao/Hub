@@ -74,9 +74,9 @@
               "Public Videos": {}
             }
           },
-          "Blue": {
+          "Valladao": {
             "type": "folder",
-            "name": "Blue",
+            "name": "Valladao",
             "info": {
               "spid": "%user%",
               "icon": "user"
@@ -174,16 +174,16 @@
                 },
                 "data": {
                   "atomforces": {},
-                  "blueapi": {},
-                  "BlueBlog": {},
-                  "BlueBlogs---A-social-platform": {},
-                  "blueedgetechno": {},
-                  "blueedgetechno.github.io": {},
-                  "blueimage": {},
-                  "bluelab": {},
-                  "blueothello": {},
-                  "blueweb": {},
-                  "codeblue": {},
+                  "Valladaoapi": {},
+                  "ValladaoBlog": {},
+                  "ValladaoBlogs---A-social-platform": {},
+                  "Valladaoedgetechno": {},
+                  "Valladaoedgetechno.github.io": {},
+                  "Valladaoimage": {},
+                  "Valladaolab": {},
+                  "Valladaoothello": {},
+                  "Valladaoweb": {},
+                  "codeValladao": {},
                   "handwritten-digit-recognition": {},
                   "jiosaavn": {},
                   "jiosaavn-api": {},

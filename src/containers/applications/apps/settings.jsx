@@ -160,10 +160,10 @@ export const Settings = () => {
                                     height={20}
                                   />
                                   <p>
-                                    SearchPage
+                                    Gabriel Valladão
                                     <br />
                                     <span className="column_lower">
-                                      You're up to date
+                                      Página Oficial
                                     </span>
                                   </p>
                                 </div>
