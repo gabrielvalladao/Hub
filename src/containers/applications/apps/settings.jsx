@@ -128,7 +128,9 @@ export const Settings = () => {
                                   className="device_img"
                                 />
                                 <div className="column_device">
-                                  <p className="device_name">Gabriel Valladão</p>
+                                  <p className="device_name">
+                                    Gabriel Valladão
+                                  </p>
                                   <p className="device_model">Microsoft</p>
                                   <p className="device_rename">Rename</p>
                                 </div>
