@@ -54,6 +54,13 @@ const apps = [
     payload: "https://www.buymeacoffee.com/blueedgetechno",
   },
   {
+    name: "Wikiwand",
+    icon: "buyme",
+    type: "app",
+    action: "EXTERNAL",
+    payload: "https://www.wikiwand.com/",
+  },
+  {
     name: "Store",
     icon: "store",
     type: "app",
