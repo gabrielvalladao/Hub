@@ -128,8 +128,8 @@ export const Settings = () => {
                                   className="device_img"
                                 />
                                 <div className="column_device">
-                                  <p className="device_name">Liber-V</p>
-                                  <p className="device_model">NS14A8</p>
+                                  <p className="device_name">Gabriel Valladão</p>
+                                  <p className="device_model">Microsoft</p>
                                   <p className="device_rename">Rename</p>
                                 </div>
                               </div>
@@ -145,6 +145,23 @@ export const Settings = () => {
                                     <br />
                                     <span className="column_lower">
                                       View benefits
+                                    </span>
+                                  </p>
+                                </div>
+                                <div
+                                  className="column"
+                                  href="https://gabrielvalladao.com.br" onClick={() => {this.handleClick}}
+                                >
+                                  <img
+                                    src="img/settings/Windows Update.webp"
+                                    alt=""
+                                    height={20}
+                                  />
+                                  <p>
+                                    SearchPage
+                                    <br />
+                                    <span className="column_lower">
+                                      You're up to date
                                     </span>
                                   </p>
                                 </div>
