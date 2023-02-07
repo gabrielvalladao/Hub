@@ -152,7 +152,11 @@ export const Settings = () => {
                                 </div>
                                 <div
                                   className="column"
-                                  onClick={() => window.location.assign("https://gabrielvalladao.com")}
+                                  onClick={() =>
+                                    window.location.assign(
+                                      "https://gabrielvalladao.com"
+                                    )
+                                  }
                                 >
                                   <img
                                     src="https://gabrielvalladao.com/assets/perfil.png"
