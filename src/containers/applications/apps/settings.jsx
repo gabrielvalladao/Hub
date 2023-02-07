@@ -150,7 +150,7 @@ export const Settings = () => {
                                 </div>
                                 <div
                                   className="column"
-                                  href="https://gabrielvalladao.com.br" onClick={() => {this.handleClick}}
+                                  onClick={() => window.location.assign("https://gabrielvalladao.com.br")}
                                 >
                                   <img
                                     src="img/settings/Windows Update.webp"
