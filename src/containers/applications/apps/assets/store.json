@@ -20,7 +20,7 @@
   {
     "name": "OneNotes",
     "icon": "https://cloud.gabrielvalladao.com/?explorer/share/file&hash=0b50fHXhBzW8n4QUhXvug7a6vmjp-mWoo3kzjuByZc7qIV9nlOkq82g2kWIvgag4Ehg&name=/onenote.png",
-    "type": "game",
+    "type": "app",
     "data": {
       "type": "IFrame",
       "url": "https://notes.gabrielvalladao.com",

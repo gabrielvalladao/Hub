@@ -152,10 +152,10 @@ export const Settings = () => {
                                 </div>
                                 <div
                                   className="column"
-                                  onClick={() => window.location.assign("https://gabrielvalladao.com.br")}
+                                  onClick={() => window.location.assign("https://gabrielvalladao.com")}
                                 >
                                   <img
-                                    src="img/settings/Windows Update.webp"
+                                    src="https://gabrielvalladao.com/assets/perfil.png"
                                     alt=""
                                     height={20}
                                   />
